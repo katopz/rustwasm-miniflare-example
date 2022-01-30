@@ -1,7 +1,6 @@
 [package]
-name = "{{project-name}}"
+name = "rustwasm-miniflare-example"
 version = "0.1.0"
-authors = ["{{authors}}"]
 edition = "2018"
 
 [lib]

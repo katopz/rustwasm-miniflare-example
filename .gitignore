@@ -1,4 +1,6 @@
 /target
 **/*.rs.bk
 wasm-pack.log
-build/
+build
+node_modules
+.mf

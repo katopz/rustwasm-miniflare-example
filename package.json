@@ -1,0 +1,12 @@
+{
+  "name": "rustwasm-miniflare-example",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "git@github.com:ffflabs/rustwasm-miniflare-example.git",
+  "author": "Felipe Figueroa <amenadiel@gmail.com>",
+  "license": "MIT",
+  "scripts": {"start":"miniflare   --wasm wasm=pkg/rustwasm-miniflare-example.wasm -w -d"},
+  "devDependencies": {
+    "miniflare": "^2.2.0"
+  }
+}
