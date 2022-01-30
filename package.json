@@ -5,7 +5,7 @@
   "repository": "git@github.com:ffflabs/rustwasm-miniflare-example.git",
   "author": "Felipe Figueroa <amenadiel@gmail.com>",
   "license": "MIT",
-  "scripts": {"start":"miniflare   --wasm wasm=pkg/rustwasm-miniflare-example.wasm -w -d"},
+  "scripts": {"start":"miniflare   --wasm wasm=pkg/rustwasm_miniflare_example_bg.wasm -w -d"},
   "devDependencies": {
     "miniflare": "^2.2.0"
   }
